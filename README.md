@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Reactjs, Nextjs , TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://workdoneeasilty.vercel.app](https://workdoneeasilty.vercel.app)
+- 👨‍💻 All of my projects are available at [https://workdoneeasily.vercel.app](https://workdoneeasily.vercel.app)
 
 - 💬 Ask me about **Html5 , Css3 , JavaScript, ES6**
 
